@@ -1,0 +1,57 @@
+@font-face {
+	font-family: 'pirate';
+	src: url('Pieces of Eight.ttf');
+}
+p {
+	font-family:pirate;
+	font-size: 30px;
+	margin: 0.5em;
+}
+#tableaustyle {
+	background: url(tresorimage.jpg);
+	border-collapse: collapse;
+	border-style: solid;
+	border-width: 1.5px;
+	border-color: brown;
+}
+
+td {
+	border-style: solid;
+	width:70px;
+	height:50px;
+	border-width: 1px;
+	border-color: #E6B73A;
+	font-family:pirate;
+	font-size: 20px;
+
+}
+.bon {
+	background:#FFDF00;
+	margin: 0.5em;
+}
+.mauvais {
+	background:#000000;
+
+}
+.ligne {
+	background:#EE8209;
+}
+.colonne{
+	background:#8805CC;
+}
+.cadre {
+	margin: 0.5em;
+	font-size: 30px;
+}
+body {
+	background-image: url(xmfy.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+h1 {
+	font-family:pirate;
+	font-size: 100px;
+	text-align: center;
+	color: #BC4C03;
+}
