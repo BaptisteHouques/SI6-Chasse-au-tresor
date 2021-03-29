@@ -1,1 +1,1 @@
-# SI6---Chasse-au-tr-sor-am-lior-e
+# SI6---Chasse-au-trésor-améliorée
